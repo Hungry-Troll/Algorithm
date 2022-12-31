@@ -5,3 +5,10 @@ D:\알고리즘\입출력과 사칙연산\Algorithm2\Algorithm2\obj\Debug\Algori
 D:\알고리즘\입출력과 사칙연산\Algorithm2\Algorithm2\obj\Debug\Algorithm2.csproj.CoreCompileInputs.cache
 D:\알고리즘\입출력과 사칙연산\Algorithm2\Algorithm2\obj\Debug\Algorithm2.exe
 D:\알고리즘\입출력과 사칙연산\Algorithm2\Algorithm2\obj\Debug\Algorithm2.pdb
+C:\Algorithm\입출력과 사칙연산\Algorithm2\Algorithm2\obj\Debug\Algorithm2.csproj.AssemblyReference.cache
+C:\Algorithm\입출력과 사칙연산\Algorithm2\Algorithm2\obj\Debug\Algorithm2.csproj.CoreCompileInputs.cache
+C:\Algorithm\입출력과 사칙연산\Algorithm2\Algorithm2\obj\Debug\Algorithm2.exe
+C:\Algorithm\입출력과 사칙연산\Algorithm2\Algorithm2\obj\Debug\Algorithm2.pdb
+C:\Algorithm\입출력과 사칙연산\Algorithm2\Algorithm2\bin\Debug\Algorithm2.exe.config
+C:\Algorithm\입출력과 사칙연산\Algorithm2\Algorithm2\bin\Debug\Algorithm2.exe
+C:\Algorithm\입출력과 사칙연산\Algorithm2\Algorithm2\bin\Debug\Algorithm2.pdb
