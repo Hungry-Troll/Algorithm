@@ -1,0 +1,14 @@
+C:\Algorithm\TestAlogorithm\TestAlogorithm\bin\Debug\netcoreapp3.1\TestAlogorithm.exe
+C:\Algorithm\TestAlogorithm\TestAlogorithm\bin\Debug\netcoreapp3.1\TestAlogorithm.deps.json
+C:\Algorithm\TestAlogorithm\TestAlogorithm\bin\Debug\netcoreapp3.1\TestAlogorithm.runtimeconfig.json
+C:\Algorithm\TestAlogorithm\TestAlogorithm\bin\Debug\netcoreapp3.1\TestAlogorithm.runtimeconfig.dev.json
+C:\Algorithm\TestAlogorithm\TestAlogorithm\bin\Debug\netcoreapp3.1\TestAlogorithm.dll
+C:\Algorithm\TestAlogorithm\TestAlogorithm\bin\Debug\netcoreapp3.1\TestAlogorithm.pdb
+C:\Algorithm\TestAlogorithm\TestAlogorithm\obj\Debug\netcoreapp3.1\TestAlogorithm.csproj.AssemblyReference.cache
+C:\Algorithm\TestAlogorithm\TestAlogorithm\obj\Debug\netcoreapp3.1\TestAlogorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algorithm\TestAlogorithm\TestAlogorithm\obj\Debug\netcoreapp3.1\TestAlogorithm.AssemblyInfoInputs.cache
+C:\Algorithm\TestAlogorithm\TestAlogorithm\obj\Debug\netcoreapp3.1\TestAlogorithm.AssemblyInfo.cs
+C:\Algorithm\TestAlogorithm\TestAlogorithm\obj\Debug\netcoreapp3.1\TestAlogorithm.csproj.CoreCompileInputs.cache
+C:\Algorithm\TestAlogorithm\TestAlogorithm\obj\Debug\netcoreapp3.1\TestAlogorithm.dll
+C:\Algorithm\TestAlogorithm\TestAlogorithm\obj\Debug\netcoreapp3.1\TestAlogorithm.pdb
+C:\Algorithm\TestAlogorithm\TestAlogorithm\obj\Debug\netcoreapp3.1\TestAlogorithm.genruntimeconfig.cache
