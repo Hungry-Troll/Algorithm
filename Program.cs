@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 namespace Algorithm2
 {
- 
+
         static void Main(string[] args)
         {
             // 우선 입력
